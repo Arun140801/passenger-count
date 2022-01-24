@@ -1,0 +1,31 @@
+* h1{ 
+    align-items: center;
+    font-color: #000;
+    font-size: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+body{
+    background-color: pink;
+    margin: 0px;
+    display: flex;
+}
+h2{
+    margin-left: 450px;
+    margin-right: 350px;
+}
+button1{
+    background-color: brown;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 410px;
+    
+    
+}
+button2{
+    background-color:green;
+    border-radius: 50px;
+    padding: 10px;
+    margin:0px;
+}
